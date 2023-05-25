@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 // Function to print the tic-tac-toe board
